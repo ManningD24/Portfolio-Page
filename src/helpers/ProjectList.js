@@ -10,6 +10,7 @@ export const ProjectList = [
     name: "Tic-Tac-Toe",
     image: Proj1,
     skills: "JavaScript,HTML,CSS",
+    
   },
   {
     name: "Landing Page",
