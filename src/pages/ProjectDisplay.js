@@ -23,6 +23,9 @@ function ProjectDisplay() {
                 open(project.link);
             }}>
       <GitHubIcon />
+       <p>
+          <b>Live Project</b>
+        </p>
     </div>
 
     </div>
